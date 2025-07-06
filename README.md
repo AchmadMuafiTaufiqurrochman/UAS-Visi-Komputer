@@ -21,7 +21,7 @@ web-deteksi-objek
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd web-deteksi-objek
+   cd UAS-Visi-Komputer
    ```
 
 2. **Install the required dependencies:**
